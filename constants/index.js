@@ -3,13 +3,13 @@ export const internship = [
     long: "3 Months",
     position: "Full Stack Developer",
     place: "JINNO - Internship",
-    stack: "PHP • Laravel • Bootstrap",
+   
   },
   {
     long: "3 Months",
     position: "Programmer",
     place: "Kejar.id - Internship",
-    stack: "PHP • Laravel • Bootstrap • Jquery • Ajax",
+  
   },
 ];
 

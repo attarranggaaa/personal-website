@@ -11,10 +11,9 @@ const Internship = () => {
             <div>
               <h1>{intern.long}</h1>
             </div>
-            <div className="col-span-3">
+            <div className="col-span-3 space-y-2">
               <h1 className="text-white">{intern.position}</h1>
               <h1>{intern.place}</h1>
-              <h1>{intern.stack}</h1>
             </div>
           </div>
         ))}

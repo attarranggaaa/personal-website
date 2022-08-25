@@ -9,7 +9,7 @@ const Projects = () => {
       <div className=" text-zinc-400 text-sm space-y-5">
         {projects.map((project, i) => (
           <Link key={i} href={project.link}>
-            <div className="space-y-1 cursor-pointer group">
+            <div className="space-y-2 cursor-pointer group">
               <h1 className="text-white after:content-['_↗'] group-hover:underline">
                 {project.title}
               </h1>
