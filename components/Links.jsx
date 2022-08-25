@@ -14,8 +14,8 @@ const Links = () => {
             ))}
           </div>
           <div className="col-span-3 space-y-2 text-white">
-            {links.map((link) => (
-              <Link href={link.link}>
+            {links.map((link, i) => (
+              <Link key={i} href={link.link}>
                 <h1 className="hover:underline cursor-pointer after:content-['_↗']">
                   {link.text}
                 </h1>
