@@ -79,4 +79,9 @@ export const links = [
     text: "instagram.com/attarranggaaa",
     link: "https://www.instagram.com/attarranggaaa",
   },
+  {
+    title: "Email",
+    text: "a.attarrangga@gmail.com",
+    link: "mailto:a.attarrangga@gmail.com",
+  },
 ];
