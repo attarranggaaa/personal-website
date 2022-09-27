@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <div className="flex justify-center md:py-32 py-14 bg-black min-h-screen">
+        <div className="flex justify-center md:py-32 py-14 bg-base min-h-screen">
           <div className="w-[30rem] text-white space-y-12 px-4 selection:bg-emerald-300 selection:text-black">
             <Intro />
             <About />
