@@ -7,5 +7,5 @@
 }
 
 body {
-  @apply scrollbar-thin scrollbar-thumb-primary;
+  @apply scrollbar-thin scrollbar-thumb-white;
 }
